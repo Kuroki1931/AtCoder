@@ -21,7 +21,7 @@ void solve() {
     } while(next_permutation(v.begin(), v.end()));
     int Factorial = 1;
     for (int i = 2; i <= N; i++) Factorial *= i;
-    cout << fixed << setprecision(10) << sum / Factorial << end1;
+    cout << fixed << setprecision(10) << sum / Factorial << endl;
     return
 }
 

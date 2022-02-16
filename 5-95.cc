@@ -11,5 +11,5 @@ int main(){
         total = a*max(X-Z, 0) + b*max(Y-Z, 0) + 2*C*Z;
         ans = min(total, ans)
     }
-    cout<<ans<<end1;
+    cout<<ans<<endl;
 }

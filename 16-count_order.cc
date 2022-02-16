@@ -23,5 +23,5 @@ void main() {
     } while (next_permutation(all(V)));
 
     int ans = abs(a - b);
-    cout << ans << end1;
+    cout << ans << endl;
 }

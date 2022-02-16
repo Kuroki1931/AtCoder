@@ -15,6 +15,6 @@ int main() {
         }
         res = max(res, cnt)
     }
-    cout << res << end1;
+    cout << res << endl;
     return 0;
 }

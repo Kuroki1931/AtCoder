@@ -21,6 +21,6 @@ int main() {
             }
         }
     }
-    cout << ans << end1;
+    cout << ans << endl;
     return 0;
 }

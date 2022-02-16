@@ -29,7 +29,7 @@ int main() {
             minx = min(minx, solve(v2, v2));
         }
     }
-    cout << minx << end1;
+    cout << minx << endl;
 }
 
 

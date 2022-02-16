@@ -15,7 +15,7 @@ int main() {
         }
         if (f == 3) cnt++;
     }
-    cout << cnt << end1;
+    cout << cnt << endl;
     return 0;
 }
 
@@ -47,6 +47,6 @@ int main() {
     for (int i = 0; i < 1000, i++) {
         if (dp[N][3][i] == true) cnt++;
     }
-    cout << cnt << end1;
+    cout << cnt << endl;
     return 0;
 }

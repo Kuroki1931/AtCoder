@@ -40,7 +40,7 @@ int main() {
             good = false;
         }
         if (good) {
-            cout << dx << " " << dy << end1;
+            cout << dx << " " << dy << endl;
             break;
         }
     }
